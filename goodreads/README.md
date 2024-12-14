@@ -36,7 +36,7 @@ The analysis of the Goodreads dataset reveals a wealth of information about book
    - Use statistical methods (e.g., Z-scores or Modified Z-Scores) to identify outliers in numerical fields (like ratings and reviews). This could help in identifying potentially erroneous entries that could skew general observations.
 
 3. **Time Series Analysis**:
-   - Considering the publication years and average ratings over time would provide a deeper understanding of trends in the literary landscape — particularly as it relates to reader reception and market shifts.
+   - Considering the publication years and average ratings over time would provide a deeper understanding of trends in the literary landscape â€” particularly as it relates to reader reception and market shifts.
 
 4. **Text Analysis of Reviews**:
    - Apply Natural Language Processing (NLP) techniques on `work_text_reviews_count` to perform sentiment analysis and extract common themes or specific reader sentiments, which could yield significant marketing insights.
@@ -60,6 +60,5 @@ By delving deeper into the dataset with these additional analyses, a more holist
 ![ratings_4_distribution.png](ratings_4_distribution.png)
 ![ratings_5_distribution.png](ratings_5_distribution.png)
 ![ratings_count_distribution.png](ratings_count_distribution.png)
-![work_id_distribution.png](work_id_distribution.png)
 ![work_ratings_count_distribution.png](work_ratings_count_distribution.png)
 ![work_text_reviews_count_distribution.png](work_text_reviews_count_distribution.png)
